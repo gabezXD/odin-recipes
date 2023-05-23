@@ -23,6 +23,7 @@ body {
   margin-top: 20px;
   width: 50%;
   border: 1px solid #f2d55e;
+  box-shadow: rgba(0, 0, 0, 0.7) 0px 3px 8px;
 }
 
 ul,
@@ -49,6 +50,7 @@ h3 {
 .description {
   background-color: white;
   color: #3a7bf2;
-  padding: 5px;
-  margin: 5px;
+  padding: 8px;
+  margin: 8px;
+  box-shadow: rgba(0, 0, 0, 0.65) 0px 3px 8px;
 }
