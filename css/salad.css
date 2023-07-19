@@ -30,7 +30,6 @@ body {
 }
 
 .container {
-  position: relative;
   max-width: 1080px;
   display: flex;
   align-items: center;
@@ -58,7 +57,7 @@ body {
 }
 
 .info img {
-  max-width: 50%;
+  max-width: 100%;
   border: 2px solid #f2d55e;
   box-shadow: rgba(0, 0, 0, 0.65) 0px 3px 8px;
 }
