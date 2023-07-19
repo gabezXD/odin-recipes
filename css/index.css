@@ -55,6 +55,7 @@ a:hover {
 img {
   max-width: 1080px;
   margin: 10px auto;
+  margin-top: 60px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
